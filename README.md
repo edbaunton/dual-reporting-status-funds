@@ -5,10 +5,10 @@ in both directions by PFICs and HMRC Reporting Status funds. This is
 explained in excellent detail on Bogleheads:
 https://www.bogleheads.org/wiki/US_domiciled_ETFs_that_are_UK_HMRC_reporting_funds
 
-For US funds, the only way if a fund has dual reporting status is by
-opening a horrendous OpenOffice spreadsheet from the HMRC
-website. This does not contain tickers or exchanges, only ISINs and
-CUSIPs, so it is very hard to read.
+For US funds, the only way of knowing if a fund has dual reporting 
+status is by opening a horrendous OpenOffice spreadsheet from the
+HMRC website. This does not contain tickers or exchanges, only ISINs
+and CUSIPs, so it is very hard to read.
 
 I couldn't find a sensible site or list that contained all the
 securities that are US domiciled with dual reporting status so I wrote
